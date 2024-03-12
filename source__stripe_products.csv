@@ -1,0 +1,13 @@
+id,name,category
+stp_1,SeedFAST,Funding
+stp_2,Seed Round Open,Funding
+stp_3,Seed Round Close,Funding
+stp_4,Instant Investment,Funding
+stp_5,Flex,Funding
+stp_6,Option Scheme,Options
+stp_7,R&D,R&D
+stp_8,General Counsel,Subscription
+stp_9,Annual Subscription,Subscription
+stp_10,Monthly Subscription,Subscription
+stp_4,Instant Investment,Funding
+stp_8,General Counsel,Subscription
